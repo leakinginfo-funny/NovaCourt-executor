@@ -1,5 +1,7 @@
 # NovaCourt-executor
-Nova Court is a lightweight Roblox executor focused on stability, safety, and clean performance. Open-source on GitHub, built for smooth injection, fast execution, and a respectful community. Use responsibly.
+About Nova Court
+
+Nova Court is a lightweight Roblox executor built with a focus on stability and ease of use. A preview image of the interface is provided so users know exactly what they’re running. Due to common antivirus false positives on executors, AV protection must be temporarily disabled before use.
 
 How to Download & Use Nova Court
 
@@ -13,6 +15,11 @@ Run NovaCourt.exe as administrator.
 Open Roblox and join a game.
 
 Attach Nova Court, paste your script, and execute.
+
+Why Antivirus Must Be Off
+
+Nova Court is a Roblox executor that modifies game memory to run scripts. Antivirus software often flags these kinds of programs as false positives because they perform actions similar to malware (memory injection, script execution). No personal data is collected, and the program is safe to use if downloaded from the official link. Temporarily disabling AV allows Nova Court to run without interference. Always re-enable your antivirus after use.
+
 
 ⚠️ Make sure Roblox is fully loaded before attaching.
 ✅ Only download from official links.
