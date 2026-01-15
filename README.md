@@ -20,4 +20,4 @@ Attach Nova Court, paste your script, and execute.
 
  Also if you don't know any scripts check out this website for some! https://scriptblox.com/
 
- <img width="782" height="382" alt="image" src="https://github.com/user-attachments/assets/cbe01055-5e62-45f1-9e54-00110ac37c6a" />
+<img width="652" height="314" alt="image" src="https://github.com/user-attachments/assets/e487c7b9-b045-4041-adac-a6b9ede79813" />
