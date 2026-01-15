@@ -16,3 +16,8 @@ Attach Nova Court, paste your script, and execute.
 
 ⚠️ Make sure Roblox is fully loaded before attaching.
 ✅ Only download from official links.
+
+
+ Also if you don't know any scripts check out this website for some! https://scriptblox.com/
+
+ <img width="782" height="382" alt="image" src="https://github.com/user-attachments/assets/cbe01055-5e62-45f1-9e54-00110ac37c6a" />
